@@ -1,1 +1,1 @@
-# MangaFox_Downloader
+# Manga_Downloader
